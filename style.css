@@ -31,7 +31,7 @@ h1 {
     /* j-c: center - flex-стиль для позиционирования по центру */
     justify-content: center;
     color: rgb(61, 2, 88);
-    font-size: 50px;
+    font-size: 35px;
     /* Текст будет по центру */
     text-align: center;
 }
@@ -58,7 +58,7 @@ div {
 }
 
 .buttons {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 button {
